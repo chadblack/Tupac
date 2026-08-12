@@ -13,22 +13,22 @@ FALL 2026
 **Office:** SMC 621  
 **Drop-in Hours:** Tuesday 2:30-4:30, or by appointment  
 
-# Course Description
+## Course Description
 
 In the early 1780s, the southern Andes of modern-day Peru and Bolivia were engulfed in widespread rebellion. The rebellions contested Spanish rule, inspired by a kind of Inca revivalism, while also fighting under the slogan “Long live the King, death to bad government!” Indigenous leaders of the revolts took new names drawn from the Incan past. This class will focus on the Tupac Amaru II and Tupac Katari rebellions, their origins, strange political features, and outcomes using a combination of original (translated) documents and scholarly debates.  
 
-# Course Objectives
+## Course Objectives
 
 1. To introduce students to the forces, events, and conflicts that defined the late colonial period of Spanish rule in the Andes.   
 2. To understand and use a variety of sources that form the core of historical inquiry, including primary written sources, secondary sources, visual and physical sources, etc.   
 3. To be able to identify, understand, critique, and create historical arguments.   
 
 
-# Course Requirements  
+## Course Requirements  
 
 Students are required to engage in this class. Learning is an interactive process, and requires active participation by all members of the class. Students need to read, write, and attend class in order to be successful. These [assignments](https://chadblack.net/Tupac/assignments/) are designed to contribute to the overall objectives of the semester, including both content-specific and skill-based goals. We also have a weekly [calendar](https://chadblack.net/Tupac/calendar/) with specific topics and readings.
 
-# Policies  
+## Policies  
 
 **Accommodations:** Qualified students with disabilities needing appropriate academic adjustments should contact me as soon as possible to ensure that your needs are met in a timely manner with appropriate documentation.
 
