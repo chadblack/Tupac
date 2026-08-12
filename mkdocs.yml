@@ -1,0 +1,26 @@
+site_name: HILA 360: The Rebellion of Tupac Amaru II
+site_url: https://chadblack.net/2026ELA/
+site_author: Chad Black
+site_description: A chad_black production
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  features:
+  - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Syllabus: syllabus.md
+  - Assignments: assignments.md
+  - Calendar: calendar.md
+
+plugins:
+  - search
+
+copyright: Copyright &copy; 2026 Chad Black
