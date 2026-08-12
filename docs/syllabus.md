@@ -11,7 +11,7 @@ FALL 2026
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
 **Office:** SMC 621  
-**Drop-in Hours:** Tuesday 2:30-4:30, or by appointment  
+**Drop-in Hours:** Tuesday 1:00-3:00, or by appointment  
 
 ## Course Description
 
