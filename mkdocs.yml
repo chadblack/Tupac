@@ -8,11 +8,11 @@ theme:
   custom_dir: docs/overrides
   features:
   - navigation.instant
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
-    - toc.integrate
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.expand
+  - toc.integrate
 
 nav:
   - Home: index.md
