@@ -1,4 +1,4 @@
-site_name: Tupac Amaru II Rebellion
+site_name: The Rebellion of Tupac Amaru II
 site_url: https://chadblack.net/Tupac/
 site_author: Chad Black
 site_description: A chad_black production
@@ -13,6 +13,18 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.integrate
+  palette:
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to light mode
+
 
 nav:
   - Home: index.md
