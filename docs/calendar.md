@@ -46,7 +46,7 @@ After finishing with Karatani, we'll turn our attention to the emergence of Ande
 
 * Karatani, Kojin. 2014. *The Structures of World History: From Modes of Production to Modes of Exchange*. Trans. by Michael K. Bourdaghs. Duke University Press. "The State." Pp. 63-80.
 
-**Thursday:** 
+**Thursday:** Cycles of Civilization 
 
 **Read:**
 
@@ -56,6 +56,7 @@ After finishing with Karatani, we'll turn our attention to the emergence of Ande
 
 ## Week Four: Memories of Inka Empire (Sep 8-Sep 10)
 
+Can Mode B exchange subsume Mode A? Can an empire be both exploitative and articulated through reciprocity? Do the dead not only stay with us, but continue to participate in the rule of this world? 
 
 **Tuesday:** Reciprocity as Imperial Method
 
@@ -70,17 +71,19 @@ After finishing with Karatani, we'll turn our attention to the emergence of Ande
 
 * Gose, Peter. 1996. “Oracles, divine kingship, and political representation in the Inka state.” _Ethnohistory_ 43:1 (Winter), pp. 1-32.
 
+**DUE: BENCHMARK 2 ON SEPTEMBER 11**
 
 ## Week Five: Spanish Rule and Reform (Sep 15-Sep 17)
 
+How did the Spanish "conquer" the Andes? In the decades after Conquest, how was Andean society -- and Spanish society -- reformed? What was erased in the subsequent historical record? What would it mean to 'return' to the Inca?
 
-**Tuesday:** 
+**Tuesday:**  Native Allies and Spanish Rivals
 
 **Read:**
 
 * Watch "The Great Inca Rebellion" on Canvas. 
 
-**Thursday:**
+**Thursday:** Was It Always Already About Labor?
 
 **Read:**
 
@@ -89,15 +92,16 @@ After finishing with Karatani, we'll turn our attention to the emergence of Ande
 
 ## Week Six: The Coming Crisis (Sep 22-Sep 24)
 
+Six weeks in, and it is time for us to turn to the rebellion itself. We're bringing the focus back in from big structures of custom, belief, exchange, etc. to the local experience of global processes. 
 
-**Tuesday:** 
+**Tuesday:**  Bourbon Pressures 
 
 **Read:**
 
 * Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
 
 
-**Thursday:**
+**Thursday:** 
 
 **Read:**
 
@@ -108,7 +112,7 @@ After finishing with Karatani, we'll turn our attention to the emergence of Ande
 ## Week Seven: The World at War (Sep 19-Oct 1)
 
 
-**Tuesday:**
+**Tuesday:** From the Act to the Event
 
 **Read:**
 
@@ -124,14 +128,15 @@ After finishing with Karatani, we'll turn our attention to the emergence of Ande
 ## Week Eight: Fall Break (Oct 6-Oct 8)
 
 
-**Tuesday:**
+**Tuesday:** Fall Break
 
 **Read:**
 
+* Only whatever you have left for Benchmark 2!
 
-**Thursday:**
+**Thursday:** Finish Benchmark 2 -- no class, finish your analysis.
 
-**Read:**
+**DUE: Benchmark 2**
 
 
 
