@@ -45,10 +45,10 @@ Fourth/Fifth:      **DECEMBER 8**
 
 ## Assignments
 
-1. Benchmark Assignment 1   
-2. Benchmark Assignment 2   
-3. Benchmark Assignment 3   
-4. Benchmark Assignment 4   
+1. [Benchmark Assignment 1 ](https://chadblack.net/Tupac/Benchmark1/)  
+2. [Benchmark Assignment 2](https://chadblack.net/Tupac/Benchmark2/)   
+3. [Benchmark Assignment 3](https://chadblack.net/Tupac/Benchmark3/)   
+4. [Benchmark Assignment 4](https://chadblack.net/Tupac/Benchmark4/)   
 
 ### Self-Evaluation and Class Engagement.
 
