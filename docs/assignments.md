@@ -38,10 +38,10 @@ Our in-class activities will include things like writing précis and research me
 
 ## Assignment Upload Dates
 
-First:      
-Second:     
-Third:  
-Fourth/Fifth:      
+First:   **SEPTEMBER 11**
+Second:     **OCTOBER 8**
+Third:  **NOVEMBER 6**
+Fourth/Fifth:      **DECEMBER 8**
 
 ## Assignments
 

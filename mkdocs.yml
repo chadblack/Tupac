@@ -31,7 +31,13 @@ nav:
   - Syllabus: syllabus.md
   - Assignments: assignments.md
   - Calendar: calendar.md
-
+  - Resources:
+    - how to write a precis and memo.md
+    - note-taking.md
+    - Benchmark1.md
+    - Benchmark2.md
+    - Benchmark3.md
+    - Benchmark4.md
 
 plugins:
   - search
