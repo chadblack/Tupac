@@ -88,6 +88,7 @@ How did the Spanish "conquer" the Andes? In the decades after Conquest, how was 
 **Read:**
 
 * Barragán, Rossana. (2017). "Working Silver for the World: Mining Labor and Popular Economy in Colonial Potosí." _Hispanic American Historical Review_ (97.2): 193-222. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_journals_1950068658)
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 11-14.
 
 
 ## Week Six: The Coming Crisis (Sep 22-Sep 24)
@@ -98,14 +99,14 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 18-39.
 
 
 **Thursday:** 
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 8-10, 15-22.
 
 
 
@@ -116,13 +117,13 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 40-62.
 
 **Thursday:**
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 34-42.
 
 
 ## Week Eight: Fall Break (Oct 6-Oct 8)
@@ -144,17 +145,17 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 ## Week Nine: Escalations (Oct 13-Oct 15)
 
 
-**Tuesday:**
+**Tuesday:** The Complexities of Identity
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 65-85.
 
 **Thursday:**
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 43-47, 52-54.
 
 
 ## Week Ten: Cuzco (Oct 20-Oct 22)
@@ -164,13 +165,13 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 86-108.
 
 **Thursday:**
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 109-129.
 
 
 ## Week Eleven: Will it Collapse? (Oct 27-Oct 29)
@@ -180,13 +181,14 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 130-151.
 
 **Thursday:**
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 152-167.
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 55-60, 62-63.
 
 
 ## Week Twelve:  A New War (Nov 3-Nov 5)
@@ -196,13 +198,13 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 168-201.
 
 **Thursday:**
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 80-94.
 
 
 ## Week Thirteen: Rapprochement?  (Nov 10-Nov 12)
@@ -212,13 +214,13 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 202-242. 
 
 **Thursday:**
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 120-131.
 
 
 ## Week Fourteen: Aftermath (Nov 17-Nov 19)
@@ -228,13 +230,13 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 **Read:**
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 243-279.
 
 **Thursday:**
 
 **Read:**
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. 
+* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 132-140.
 
 
 ## Week Fifteen: Thanksgiving (Nov 24-Nov 26)
