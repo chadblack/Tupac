@@ -206,7 +206,7 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 
 * Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 80-94.
 
-
+**DUE November 6: Benchmark 3**
 ## Week Thirteen: Rapprochement?  (Nov 10-Nov 12)
 
 
@@ -242,20 +242,27 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 ## Week Fifteen: Thanksgiving (Nov 24-Nov 26)
 
 
-**Tuesday:**
+**Tuesday:** Safe Travels
 
 **Read:**
 
+Anything you find interesting. 
 
-**Thursday:**
+**Thursday:** Eat food.
 
 **Read:**
 
+Instead of reading, spend time with (or manage) family and friends. 
 
 
 
 ## Week Sixteen: Wrap Up (Dec 1)
 
+We're going to wrap the semester up, and add here whatever becomes necessary by the end of the semester.
 
 **Read:**
+
+* TBD 
+
+**DUE DECEMBER 8: Benchmark 4 and/or last attempt at earlier**
 
