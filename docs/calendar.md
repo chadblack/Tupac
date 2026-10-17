@@ -194,19 +194,20 @@ Six weeks in, and it is time for us to turn to the rebellion itself. We're bring
 ## Week Twelve:  A New War (Nov 3-Nov 5)
 
 
-**Tuesday:**
+**Tuesday:** ELECTION DAY, NO CLASS 
 
-**Read:**
+**Go vote!!!** 
 
-* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press. Pp. 168-201.
+Read: 
 
-**Thursday:**
+* Walker, Charles. 2014. *The Tupac Amaru Rebellion*. Belknap Press/Harvard University Press, Pp. 168-201.
 
-**Read:**
+**Thursday:** WRITING DAY
 
-* Stavig, Ward and Ella Schmidt, eds. 2008. *The Tupac Amaru and Catarista Rebellions: An Anthology of Sources*. Hacket Publishing. Docs. 80-94.
+* Sign up for a Zoom consultation if needed. 
 
 **DUE November 6: Benchmark 3**
+
 ## Week Thirteen: Rapprochement?  (Nov 10-Nov 12)
 
 
